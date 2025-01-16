@@ -1,36 +1,14 @@
--Default import / export
+ Swiggy Clone
 
+A frontend project built with React that simulates Swiggy's restaurant listings by fetching data from Swiggy’s API and dynamically rendering it into reusable components.
 
-named import /export 
-{}
+Features
 
+Fetches restaurant data from Swiggy’s API.
+Displays a list of restaurants with dynamic rendering.
+Uses reusable components to handle data-driven rendering.
 
+Technologies Used
 
-homework
-1 can use dafult and name export  
-
-
-react hooks - are normal javasript function
-
-hooks --
- USEsTATE-- when ever the state varaible is change and react will render the component
-
-
- # React  Fiber -Reconcilation algorithum
- 
- it comes in react 16 
-  
-  ##    episode 6  monlithic vs microservices
-
-  monolith-- api ui auth db sms(Notification system)
-
-
-# redux Toolkit 
-   -Install  @reduxjs/toolkit and react redux 
-   -Build our store
-   -Connect our store to our app
-   -Slice (cartslice)
-   -dispatch (action)
-   -Selector 
-
-   
+React.js 
+Tailwind CSS
